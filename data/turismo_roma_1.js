@@ -1,0 +1,12 @@
+var json_turismo_roma_1 = {
+"type": "FeatureCollection",
+"name": "turismo_roma_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "foto": "D:\\Goudappel & Coffee\\WebSocial & Eventi\\sito internet\\esempi mappe\\shapefile\\foto\\colosseo.png", "Tipologia": "monumento", "Nome": "Colosseo", "Indirizzo": "Piazza del Colosseo - 00184", "Città": "Roma", "LinkWiki": "https:\/\/it.wikipedia.org\/wiki\/Colosseo", "N_turisti": "7500000" }, "geometry": { "type": "Point", "coordinates": [ 12.492319681240195, 41.890243009384356 ] } },
+{ "type": "Feature", "properties": { "foto": "D:\\Goudappel & Coffee\\WebSocial & Eventi\\sito internet\\esempi mappe\\shapefile\\foto\\campidoglio.png", "Tipologia": "Edificio pubblico", "Nome": "Campidoglio", "Indirizzo": "Piazza Del Campidoglio - 00186", "Città": "Roma", "LinkWiki": "https:\/\/it.wikipedia.org\/wiki\/Campidoglio", "N_turisti": "0" }, "geometry": { "type": "Point", "coordinates": [ 12.482936991127326, 41.893301649238715 ] } },
+{ "type": "Feature", "properties": { "foto": "D:\\Goudappel & Coffee\\WebSocial & Eventi\\sito internet\\esempi mappe\\shapefile\\foto\\piazza di spagna.png", "Tipologia": "Piazza", "Nome": "Piazza di Spagna", "Indirizzo": "Piazza di Spagna - 00187", "Città": "Roma", "LinkWiki": "https:\/\/it.wikipedia.org\/wiki\/Piazza_di_Spagna", "N_turisti": "7000000" }, "geometry": { "type": "Point", "coordinates": [ 12.481834319223626, 41.906325692253134 ] } },
+{ "type": "Feature", "properties": { "foto": "D:\\Goudappel & Coffee\\WebSocial & Eventi\\sito internet\\esempi mappe\\shapefile\\foto\\musei vaticani.png", "Tipologia": "Museo", "Nome": "Musei Vaticani", "Indirizzo": "00120 Città del Vaticano", "Città": "Città del Vaticano", "LinkWiki": "https:\/\/it.wikipedia.org\/wiki\/Musei_Vaticani", "N_turisti": "6800000" }, "geometry": { "type": "Point", "coordinates": [ 12.454464605523082, 41.906421310917601 ] } },
+{ "type": "Feature", "properties": { "foto": "D:\\Goudappel & Coffee\\WebSocial & Eventi\\sito internet\\esempi mappe\\shapefile\\foto\\stadio olimpico.png", "Tipologia": "Sport", "Nome": "Stadio Olimpico", "Indirizzo": "Viale dei Gladiatori - 00135", "Città": "Roma", "LinkWiki": "https:\/\/it.wikipedia.org\/wiki\/Stadio_Olimpico_(Roma)", "N_turisti": null }, "geometry": { "type": "Point", "coordinates": [ 12.454729047201358, 41.933968373216693 ] } }
+]
+}
